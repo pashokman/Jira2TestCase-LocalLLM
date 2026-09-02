@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Else
+qa_artifacts
+config.py
+problems_to_solve.txt
